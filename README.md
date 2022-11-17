@@ -15,3 +15,9 @@ Los tópicos cubiertos son:
 - 🔭 **Moisés Gualapuro**: Docente.  
 
 - 🌱 **Francisco Mendoza**: TA.
+
+Estudiantes 
+
+1. John Fariños
+2. Joyce Andrade 
+3. Katherin Toro 
